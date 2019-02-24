@@ -1,6 +1,6 @@
 // http://pac.itzmx.com
 
-var proxy = "PROXY 192.168.6.183:9666;";
+var proxy = "PROXY 127.0.0.1:9666;";
 
 var domains = {
   "xxxxxx": 1,
@@ -12,6 +12,20 @@ var domains = {
   "xxxxxx": 1,
   "xxxxxx": 1,
   "xxxxxx": 1,
+  "xxxxxx": 1,
+  "xxxxxx": 1,
+  "xxxxxx": 1,
+  "xxxxxx": 1,
+  "xxxxxx": 1,
+  "xxxxxx": 1,
+  "xxxxxx": 1,
+  "content.jwplatform.com": 1,
+  "sexgayhd.com": 1,
+  "g.jwpsrv.com": 1,
+  "1fgqftn.oloadcdn.net/": 1,
+  "magisk.me": 1,
+  "download.srvr.online": 1,
+  "cdn.rawgit.com": 1,
   "||phncdn.com": 1,
   "||twitch.tv": 1,
   "btsow.com": 1,
@@ -28,8 +42,6 @@ var domains = {
   "you-get.org": 1,
   "mega.nz": 1,
   "kuturl.com": 1,
-  "||github.com": 1,
-  "github.com": 1,
   "download.scdn.co": 1,
   "||apache.org": 1,
   "||yfdisk.com": 1,
