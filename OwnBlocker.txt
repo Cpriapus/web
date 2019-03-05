@@ -5,3 +5,4 @@
 ||fo73r.cn
 ||img3.yiyohei.com
 ||yunsoka.com^
+||api.bbbbbb.me##span
