@@ -4,3 +4,4 @@
 ||12i.cn
 ||fo73r.cn
 ||img3.yiyohei.com
+||api.bbbbbb.me##span[id^="*"]
