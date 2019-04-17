@@ -6,3 +6,4 @@
 ||img3.yiyohei.com
 ||yunsoka.com^
 ||api.bbbbbb.me##span
+||s22.cnzz.com
