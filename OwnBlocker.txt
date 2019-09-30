@@ -1,21 +1,6 @@
 [Adblock Plus 2.0]
-||tmy.ithaoran.com^
-||sxddgxcy.com^
-||12i.cn^
-||fo73r.cn^
-||img3.yiyohei.com^
-||yunsoka.com^
-||cnzz.com^
-||wmton.com^
-||myhug.cn^
-||ppsflyer.com^
-||3xiaoshuo.cn^
-||089812366.com^
-||cfcglx.com^
-||cnzz.com^
-||qqcedsrc.com^
-||wojiabaoye.com^
-||pv.sohu.com^
-||cweclub.cn^
-||js.users.51.la^
-||wsgblw.com^
+smfsjx.com
+vh269.cn
+xtyizilaijx.cn
+sxybjjz.cn
+cweclub.cn
