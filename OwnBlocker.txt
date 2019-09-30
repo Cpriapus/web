@@ -1,4 +1,4 @@
 [Adblock Plus 2.0]
-smfsjx.com
-vh269.cn
-xtyizilaijx.cn
+||smfsjx.com^
+||vh269.cn^
+||xtyizilaijx.cn^
